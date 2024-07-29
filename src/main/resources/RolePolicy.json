@@ -1,0 +1,7 @@
+{
+  "ROLE_USER_1" : ["FirstRolePermission", "ATTRIBUTE_READ_WRITE"],
+  "ROLE_USER_2": ["SecondRolePermission", "ATTRIBUTE_READ", "ADDRESS_READ"],
+  "ROLE_USER_3" : ["ThirdRolePermission", "ADDRESS_READ_WRITE"],
+  "ROLE_USER_4" : ["LastRolePermission", "DATABASE_ACCESS"],
+  "ROLE_USER_ADMIN": ["*"]
+}

@@ -1,0 +1,6 @@
+{
+  "FirstRole" : ["ROLE_USER_1","ROLE_USER_ADMIN"],
+  "SecondRole": ["ROLE_USER_2","ROLE_USER_ADMIN"],
+  "ThirdRole" : ["ROLE_USER_3","ROLE_USER_ADMIN"],
+  "LastRole": ["ROLE_USER_4","ROLE_USER_ADMIN"]
+}

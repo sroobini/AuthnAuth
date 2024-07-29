@@ -1,0 +1,26 @@
+{
+"John12" : {
+  "id" : "2324",
+  "username" : "John12",
+  "email" : "john@gmail.com",
+  "passwordHash" : "xyz*123",
+  "roles" : [{"id":  1, "name" :"ROLE_USER_1"}]
+},
+
+  "Seema32" : {
+    "id" : "2334",
+    "username" : "Seema32",
+    "email" : "seema@gmail.com",
+    "passwordHash" : "abc*123",
+    "roles" : [{"id":  2, "name" :"ROLE_USER_2"},{"id":  4, "name" :"ROLE_USER_3"}]
+  },
+
+  "Patricks2" : {
+    "id" : "2324",
+    "username" : "Patricks2",
+    "email" : "Patrick@gmail.com",
+    "passwordHash" : "def*123",
+    "roles" : [{"id":  3, "name" :"ROLE_USER_ADMIN"}]
+
+  }
+}
